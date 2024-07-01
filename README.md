@@ -4,6 +4,10 @@ Made this with the above resource
 
 Don't know why I used Python (SLOW :-) )
 
+
 after a while sim goes boom 
 
 GG
+
+
+Maybe will implement threading
